@@ -2,9 +2,10 @@
 <h1 align="center">Hi 👋, I'm Sparsh Shrivastava</h1>
 <h2 align="center">A Passionate Software Developer from India</h2>
 
-<img align="right" alt ="coding" width="400" src= "https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt ="coding" width="400" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif">
 
-- 🌱 I’m currently learning **JavaScript & Linux**
+
+- 🌱 I’m currently learning **JavaScript**
 
 - 📫 How to reach me **Sparshs195@gmail.com**
 
