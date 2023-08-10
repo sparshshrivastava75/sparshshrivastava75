@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Sparsh Shrivastava</h1>
 <h2 align="center">A Passionate Software Developer from India</h2>
 
-<img align="right" alt ="coding" width="400" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif">
+<img align="right" alt ="coding" width="300" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif">
 
 
 - 🌱 I’m currently learning **JavaScript**
@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/linkedin.com/in/sparsh-shrivastava" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/sparsh-shrivastava" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/sparsh75" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sparsh75" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/sparsh75" target="blank"><img align="center" src="https://avatars1.githubusercontent.com/u/11960354?s=460&v=4" alt="sparsh75" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
