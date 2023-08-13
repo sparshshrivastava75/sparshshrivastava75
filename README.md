@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Sparsh Shrivastava</h1>
-<h2 align="center">A Passionate Software Developer from India</h2>
+<h2 align="center">A Passionate Software Developer </h2>
 
 <img align="right" alt ="coding" width="300" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif">
 
