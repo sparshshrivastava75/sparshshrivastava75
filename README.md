@@ -5,7 +5,7 @@
 <img align="right" alt ="coding" width="300" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif">
 
 
-- 🌱 I’m currently working in **Django**
+
 
 - 📫 How to reach me **Sparshshrivastava75@gmail.com**
 
